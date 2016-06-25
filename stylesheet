@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+	<div id="header">
+	<p id="name">Yossef Arar</p><a href="https://www.facebook.com/yosi.rr"><p id="profile"> My Facebook Profile</p></a>
+	</div>
+	<div class="left">
+	<p>Birthdate: 27/08/1991</p>
+	<p>Address: Nurit 26 Ashdod</p>
+    <p>Phone number: 054-5353992</p>							    <p>Email: Yossiarar@gmail.com</p>
+    <p>Gender: single</p>
+    <p>Languages:	Hebrew - mother tongue, English - mother tongue level </p>
+    <p>Education:
+	Makif Hey Ashdod – Electricity, 2006 - 2009</p>
+	</div>
+	<div class="right"><h3>Yossef Arar – QA Engineer</h3>
+	<h2>Professional Experience:</h2>
+	<h4><span style="text-decoration: underline;">Israel Discount Bank, Support and Costumer Service, Year - 2016</span>
+	<ul>
+	<li>Full Banking Services</li>
+	<li>Web Support</li>
+	<li>Customer services</li>
+	</ul>
+
+	<h4><span style="text-decoration: underline;">
+Electra, Hardware technician, Years - 2014-2016</span>
+	<ul>
+	<li>Worked as a hardware technician in Electra, this jobs includes…</li>
+	<li>Working in contractor’s environment</li>
+	<li>Troubleshooting</li>
+	<li>Held exclusive responsibility XYZ</li>
+	</ul>
+	</h4>
+	<h2 style="text-align: center; margin-top: -200px;text-align: right; margin-right: 340px;
+	"> Courses and Certifications:</h2>
+</h4>
+	<h4 style="text-align: center; margin-top: -1px; margin-left: 380px;">
+	<li style="margin-left: 100px;">2016- HackerU QA studies – Learning quality assurance methodologies</li>
+	<li style="margin-left: 110px;"> working on projects, working with different programs including QC, Jira </li>
+		<li style="margin-left: 42px;"> 2016- Codecademy independent courses – HTML, SQL, JAVA.</li>	<li style="margin-left: -120px;"> 2011- Practical Power Studies College </li>
+	</div>
+	<div id="footer">
+	<h1><em>"Always give everything you can, the rest will come alone"</em></h1>
+
+	</div>
+	</body>
+</html>
